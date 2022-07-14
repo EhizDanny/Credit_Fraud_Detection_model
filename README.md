@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/90690026/179097562-94c6bdce-f674-4312-be7b-407c90ca167c.png)
+
+
 # Credit_Fraud_Detection_model
 Credit fraud occurs when thieves use personal information belonging to one or more consumers to open loans or credit card accounts, to buy goods or services, or to secure cash advances—and then disappear without ever paying a dime. It can also happen when fraudsters exploit existing accounts by gaining access to credit card information and using it to make purchases without the victim's knowledge or consent.
 
