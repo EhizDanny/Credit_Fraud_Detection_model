@@ -7,3 +7,5 @@ Credit fraud occurs when thieves use personal information belonging to one or mo
 According to the most recent available data from credit card industry publication The Nilson Report, losses from credit fraud were nearly $28 billion in 2018, with U.S. losses totaling nearly $9.5 billion.
 
 Consumers, businesses and credit users in general suffer as consumer information is compromised for criminal gain. Additionally, lenders may charge higher fees and interest rates to cover the costs of fraud-prevention and fraud management programs.
+
+ This model uses previous credit cards transaction data to predict the genuity of a credit card.
